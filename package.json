@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-fallout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tankjem/portfolio-fallout.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tankjem/portfolio-fallout/issues"
+  },
+  "homepage": "https://github.com/tankjem/portfolio-fallout#readme",
+  "dependencies": {
+    "angular-ui-router": "^0.4.2"
+  }
+}
